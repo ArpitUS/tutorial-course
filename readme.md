@@ -17,6 +17,7 @@ Every module includes:
 
 ## Repository Overview
 
+```text
 tutorial-course/
 │
 ├── Go_Tutorial/
@@ -32,6 +33,7 @@ tutorial-course/
 │ └── README.md
 │
 └── README.md
+```
 
 ---
 
