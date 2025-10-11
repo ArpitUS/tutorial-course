@@ -57,3 +57,97 @@ tutorial-course/
 ```bash
 cd Go_Tutorial/Module01
 go run main_after.go
+```
+
+---
+
+## Python Tutorial
+
+### Goal
+
+Build a solid understanding of Python for automation, scripting, and backend development.
+
+### Modules Overview
+
+1. Python Basics
+2. Variables & Data Types
+3. Control Flow
+4. Functions
+5. Data Structures
+6. Strings & File Handling
+7. Error Handling
+8. Object-Oriented Programming
+9. Modules & Packages
+10. Automation & Mini Project
+
+### Example Run
+
+```bash
+cd Rust_Course/Module_01_Basics
+rustc after_main.rs && ./after_main
+```
+
+---
+
+## Setup Instructions
+
+### Prerequisites
+
+| Language | Required Version | Installation |
+|-----------|------------------|---------------|
+| Go | 1.22+ | https://go.dev/dl/ |
+| Python | 3.10+ | https://www.python.org/downloads/ |
+| Rust | 1.80+ | https://rustup.rs/ |
+
+### Recommended Editor
+
+Visual Studio Code with:
+
+- Go extension
+- Python extension
+- Rust Analyzer
+
+---
+
+## Learning Approach
+
+Each module follows the same structure:
+
+1. Read the `README.md` to understand the objectives
+2. Open the starter file (`main_before` or `before_main.rs`)
+3. Complete the exercises and test the output
+4. Compare your code with the solution file (`main_after` or `after_main.rs`)
+
+This format encourages practical, iterative learning and helps build muscle memory for syntax, structure, and problem-solving.
+
+---
+
+## Contributing
+
+Contributions, improvements, and new tutorials are welcome.
+
+### To contribute
+
+#### Fork and clone this repository
+
+```bash
+git clone https://github.com/YourUsername/tutorial-course.git
+```
+
+#### Create a new branch
+
+```bash
+git checkout -b feature/new-tutorial
+```
+
+#### Commit your changes
+
+```bash
+git commit -m "feat: add new Go concurrency module examples"
+```
+
+#### Push and open a Pull Request
+
+```bash
+git push origin feature/new-tutorial
+```
