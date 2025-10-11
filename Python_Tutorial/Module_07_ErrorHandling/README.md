@@ -1,19 +1,13 @@
-# Module 07 ErrorHandling
+# Module 07 – Error Handling
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Use `try`, `except`, and `finally`  
+- Handle input errors gracefully  
+- Understand exception messages
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Wrap user input in `try/except` to handle invalid integers  
+3. Display a message if input is incorrect

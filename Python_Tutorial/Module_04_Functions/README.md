@@ -1,19 +1,13 @@
-# Module 04 Functions
+# Module 04 – Functions
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Define and call functions  
+- Use parameters and return values  
+- Practice DRY (Don't Repeat Yourself)
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Write a function `greet(name)` that prints a greeting  
+3. Call it with your name

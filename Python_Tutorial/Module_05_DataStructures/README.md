@@ -1,19 +1,13 @@
-# Module 05 DataStructures
+# Module 05 – Data Structures
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Work with lists, tuples, sets, and dictionaries  
+- Perform common operations (add, remove, access)  
+- Understand when to use each
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Create a list of fruits  
+3. Print the first fruit and total count

@@ -1,19 +1,13 @@
-# Module 06 StringsFiles
+# Module 06 – Strings & File Handling
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Perform string slicing and formatting  
+- Read and write files using `with open()`  
+- Handle simple text files
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Create a string with your name and slice first 3 letters  
+3. Write text to a file called `data.txt`

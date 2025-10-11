@@ -1,11 +1,13 @@
-# 🐍 Python Tutorial Course — From Zero to Python Hero
+# Module 10 – Automation & Mini Project
 
-Welcome to the **Python Tutorial Course**, designed for beginners who want to build strong foundations in Python programming through practical coding exercises.
+## Objectives
 
-This repository contains **10 structured modules**, each with:
-- A short **README.md** explaining the topic
-- A **main_before.py** file (starter code for practice)
-- A **main_after.py** file (final reference solution)
+- Automate simple tasks using Python  
+- Read and process data from files  
+- Build a small end-to-end script
 
----
-Run each `main_before.py` to practice and compare with `main_after.py` for guidance.
+## Instructions
+
+1. Open `main_before.py`  
+2. Read a list of names from `names.txt`  
+3. Print “Hello <name>” for each entry

@@ -1,19 +1,13 @@
-# Module 08 OOP
+# Module 08 – Object-Oriented Programming (OOP)
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Create classes and objects  
+- Use constructors and methods  
+- Understand inheritance basics
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Create a class `Person` with name and age attributes  
+3. Add a `greet()` method that prints a message

@@ -1,19 +1,13 @@
-# Module 03 ControlFlow
+# Module 03 – Control Flow
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Use `if`, `elif`, `else`  
+- Write `for` and `while` loops  
+- Understand `break` and `continue`
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Ask for a number and check if it’s even or odd  
+3. Print numbers 1–5 using a `for` loop

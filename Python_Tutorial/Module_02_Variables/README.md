@@ -1,19 +1,13 @@
-# Module 02 Variables
+# Module 02 – Variables & Data Types
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Learn about variables and naming conventions  
+- Explore basic types: int, float, string, bool  
+- Use `input()` and `print()`
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Create variables for name, age, and height  
+3. Print their values and types

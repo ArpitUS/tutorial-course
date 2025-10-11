@@ -1,19 +1,13 @@
-# Module 01 Basics
+# Module 01 – Python Basics
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Understand Python syntax and indentation  
+- Write and run your first Python program  
+- Use comments and `print()`
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Write your first “Hello World” and print your name  
+3. Compare results with `main_after.py`

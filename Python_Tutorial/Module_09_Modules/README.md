@@ -1,19 +1,12 @@
-# Module 09 Modules
+# Module 09 – Modules & Packages
 
-### 🎯 Objectives
-- Describe the topic briefly
-- Write example code in `main_before.py`
-- Compare results with `main_after.py`
+## Objectives
 
----
+- Import built-in and custom modules  
+- Understand `__name__ == "__main__"`  
+- Use `pip` to install external libraries
 
-### 🧠 Instructions
-1. Open `main_before.py`
-2. Follow the inline comments
-3. Run the script
-4. Review your solution with `main_after.py`
+## Instructions
 
----
-
-### ⏱ Duration
-Approx. 5–6 minutes
+1. Open `main_before.py`  
+2. Import the `math` module and print the square root of 16
